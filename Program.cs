@@ -20,7 +20,7 @@ namespace deneme0
             {
                 <50 => "la 50den köcukmus",
                 65  => "65mislaa",
-                _   => "bu ne gı"
+                _   => "bu ne gsdfsdfı"
             };
 
             switch(x)
