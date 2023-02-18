@@ -1,1 +1,1 @@
-# Movie store api - patika.dev .net core 
+# MovieStoreAPI Param Practicum Homework
